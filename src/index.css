@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url("Assets/font/Montserrat-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Bernier";
+  src: url("Assets/font/BERNIERRegular.woff2") format("truetype");
+}
+
+@font-face {
+  font-family: "Anton";
+  src: url("Assets/font/Anton-Regular.ttf") format("truetype");
+}
